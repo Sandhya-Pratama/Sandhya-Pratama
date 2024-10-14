@@ -33,17 +33,25 @@
       <br>Bootstrap
     </td>
     <td align="center"  width="96">
-    <a href="#figma" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="40" height="40"/> </a> 
+    <a href="#figma" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="48" height="48"/> </a> 
     <br>figma
     </td>
     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" alt="phyton" />
     <br>Python
     <td align="center"  width="96">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
     <br>PostgreSQL
     </td>
     <td align="center"  width="96">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
     <br>Docker
     </td>
+    <td align="center"  width="96">
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API"/>
+    <br>Rest-API
+    </td>
+
+
+
+    

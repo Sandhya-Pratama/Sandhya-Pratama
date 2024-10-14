@@ -32,6 +32,8 @@
       <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
+  </tr>
+  <tr>
     <td align="center" width="96">
       <a href="#figma" target="_blank">
         <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="48" height="48" />
@@ -53,6 +55,10 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API" />
       <br>Rest-API
+    </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/jwt-icon.svg" width="48" height="48" alt="JWT" />
+      <br>JWT
     </td>
   </tr>
 </table>

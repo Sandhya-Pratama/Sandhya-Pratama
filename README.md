@@ -37,7 +37,6 @@
     <br>figma
     </td>
     <td align="center" width="96">
-    <a href="#macropower-tech">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
     <br>Python
     <td align="center"  width="96">

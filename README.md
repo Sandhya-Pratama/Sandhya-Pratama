@@ -11,46 +11,53 @@
 <h3 align="left">Programming languages and tools that I can use.</h3>
 
 <table align="center">
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
       <br>Go
     </td>
-     <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
       <br>Github
-    </td> 
-   <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-        <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
       <br>CSS
     </td>
-    <tr>
-    <td align="center"  width="96">
-        <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
       <br>Bootstrap
     </td>
-    <td align="center"  width="96">
-    <a href="#figma" target="_blank"> <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="48" height="48"/> </a> 
-    <br>figma
+    <td align="center" width="96">
+      <a href="#figma" target="_blank">
+        <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="48" height="48" />
+      </a>
+      <br>Figma
     </td>
     <td align="center" width="96">
-    <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" alt="phyton" />
-    <br>Python
-    <td align="center"  width="96">
-    <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-    <br>PostgreSQL
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+      <br>Python
     </td>
-    <td align="center"  width="96">
-    <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
-    <br>Docker
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
+      <br>PostgreSQL
     </td>
-    <td align="center"  width="96">
-    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API"/>
-    <br>Rest-API
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
+    <td align="center" width="96">
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API" />
+      <br>Rest-API
+    </td>
+  </tr>
+</table>
 
 
 

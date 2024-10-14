@@ -55,11 +55,6 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API" />
       <br>Rest-API
-    </td>
-    <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/jwt-icon.svg" width="48" height="48" alt="JWT" />
-      <br>JWT
-    </td>
   </tr>
 </table>
 

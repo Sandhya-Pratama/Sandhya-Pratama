@@ -39,12 +39,12 @@
     <td align="center" width="96">
     <a href="#macropower-tech">
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-    <br>PythoN
+    <br>Python
     <td align="center"  width="96">
     <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
     <br>PostgreSQL
     </td>
     <td align="center"  width="96">
-    <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" />
     <br>Docker
     </td>

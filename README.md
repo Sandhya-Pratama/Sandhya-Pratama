@@ -65,7 +65,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya-pratama&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya-pratama" /> </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sandhya-pratama&show_icons=true&locale=en&layout=compact" alt="sandhya-pratama" /></p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandhya-pratama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="151" alt="languages graph"  />
+</div>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhya-pratama&show_icons=true&locale=en" alt="sandhya-pratama" /></p>
 

@@ -1,18 +1,30 @@
 <h1 align="center">Hi 👋, I'm Sandhya Pratama Hutagalung</h1>
-<h3 align="center">✌️ I am an informatics engineering student at Semarang State University who is interested in Golang Backend Developer and UI/UX Design </h3>
+<h3 align="center">🚀 Enthusiastic Golang Backend Developer and UI/UX Design Hobbyist from Semarang State University</h3>
 
-- 👨‍💻 My Portofolio Web [https://sandhyaphutagalung.vercel.app/](https://sandhyaphutagalung.vercel.app/)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sandhya-pratama&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya-pratama" />
+</p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="center">
+  Passionate about solving problems through technology, with a focus on backend development in Golang and a flair for intuitive UI/UX design. I am constantly learning, exploring, and working on cool projects. Let's connect and create something amazing together!
+</p>
+
+---
+
+- 🌐 **Portfolio:** [https://sandhyaphutagalung.vercel.app/](https://sandhyaphutagalung.vercel.app/)
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
   <a href="https://www.linkedin.com/in/sandhyapratamahutagalung/" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sandhya Pratama Hutagalung" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
 </p>
 
+---
 
-
-<h3 align="left">Programming languages and tools that I can use.</h3>
+<h2 align="center">🛠 My Toolbox & Tech Stack</h2>
 
 <table align="center">
   <tr>
@@ -21,36 +33,44 @@
       <br>Go
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="Github" />
-      <br>Github
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br>Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br>PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br>Docker
     </td>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML" />
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <a href="#figma" target="_blank">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="48" height="48" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
-      <br>Python
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub" />
+      <br>GitHub
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="Postgres" />
-      <br>PostgreSQL
+      <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="REST API" />
+      <br>REST API
     </td>
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="48" height="48" alt="Docker" />
@@ -59,19 +79,21 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API" />
       <br>Rest-API
+    </td>
   </tr>
 </table>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhya-pratama&label=Profile%20views&color=0e75b6&style=flat" alt="sandhya-pratama" /> </p>
+---
 
+<h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Sandhya-pratama&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="151" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=sandhya-pratama&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-pratama&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sandhya-pratama&show_icons=true&locale=en" alt="sandhya-pratama" /></p>
+---
 
-
-
-
-    
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=2500&pause=500&color=7D8FFF&width=435&lines=Backend+Developer+%7C+Golang+Enthusiast+%7C+Tech+Learner;Let's+Build+Something+Amazing+Together!;I+Love+Coding+and+Designing!" alt="Typing SVG">
+</div>

@@ -88,7 +88,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandhya-pratama&show_icons=true&theme=dracula&hide_border=false" height="180" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sandhya-pratama&layout=compact&theme=dracula&hide_border=false" height="180" alt="Top Languages" />
 </div>
 

@@ -27,7 +27,6 @@
 <h2 align="center">🛠 My Toolbox & Tech Stack</h2>
 
 <table align="center">
-  <table align="center">
   <tr>
     <td align="center" width="96">
       <img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go" />
@@ -42,23 +41,23 @@
       <br>HTML
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="css" />
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS" />
       <br>CSS
     </td>
     <td align="center" width="96">
-      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="bootstrap" />
+      <img src="https://skillicons.dev/icons?i=bootstrap" width="48" height="48" alt="Bootstrap" />
       <br>Bootstrap
     </td>
   </tr>
   <tr>
     <td align="center" width="96">
       <a href="#figma" target="_blank">
-        <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="figma" width="48" height="48" />
+        <img src="https://cdn.iconscout.com/icon/free/png-256/figma-2296071-1912030.png" alt="Figma" width="48" height="48" />
       </a>
       <br>Figma
     </td>
     <td align="center" width="96">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="48" height="48" />
+      <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="48" height="48" />
       <br>Python
     </td>
     <td align="center" width="96">
@@ -72,8 +71,32 @@
     <td align="center" width="96">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" width="48" height="48" alt="Rest-API" />
       <br>Rest-API
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React" />
+      <br>React.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=javascript" width="48" height="48" alt="JavaScript" />
+      <br>JavaScript
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+      <br>MongoDB
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Node.js" />
+      <br>Node.js
+    </td>
+    <td align="center" width="96">
+      <img src="https://vmsoftwarehouse.com/wp-content/uploads/2022/06/header-typescript.svg" width="48" height="48" alt="TS" />
+      <br>Type Script
+    </td>
   </tr>
 </table>
+
 
 ---
 
